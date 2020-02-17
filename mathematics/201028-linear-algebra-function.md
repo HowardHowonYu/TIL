@@ -1,14 +1,3 @@
----
-title: 수학 - 선형대수, 함수
-date: 2020-01-29 21:35:43
-tags: 
-- Math
-- linear algebra
-- function
-comments : True
-categories : TIL..
----
-
 ## 선형대수학
 - PCA(Principal Component Analysis) : 주성분 분석
  - 차원축소와 투영 == 특이분해의 로우-랭크 근사문제

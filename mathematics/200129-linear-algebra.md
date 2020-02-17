@@ -1,11 +1,3 @@
----
-title: 선형대수 - 문제풀이
-tags: 
-- Math
-- linear algebra
-comments : True
-categories : TIL..
----
 ## linear-algebra
 - 고유값 분해
 - 특이값 분해  
