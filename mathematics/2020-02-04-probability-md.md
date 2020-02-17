@@ -1,11 +1,3 @@
----
-title: 결합확률, 조건부확률, 베이즈정리
-date: 2020-02-04 19:53:59
-tags:
-- Math
-- Probability
-categories : TIL..
----
 ## 결합확률(joint probability)
 - 사건 A와 B가 동시에 일어날 확률
 - P(A,B)
